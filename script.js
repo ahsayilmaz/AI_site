@@ -1,2 +1,3 @@
 document.getElementById('myButton').addEventListener('click', function () {
-alert('You clicked the button!')})
+    alert('You got that first badge: "cliked the button"!')
+    })
